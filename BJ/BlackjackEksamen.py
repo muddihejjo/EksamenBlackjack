@@ -151,7 +151,6 @@ while True:
     print("Slå så tæt på til 21, ellers taber du\nDealer slår til og aces vil blive talt som 1 eller 11.")
     print("<=============================================>")
     
-    # Create & shuffle the deck, deal two cards to each player
     spil = Spil()
     spil.shuffle()
     
