@@ -211,5 +211,5 @@ while True:
         igangværendeSpil=True
         continue
     else:
-        print("Thanks for playing!")
+        print("Tak for spillet!!")
         break
